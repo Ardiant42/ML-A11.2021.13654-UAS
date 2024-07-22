@@ -23,6 +23,8 @@ Penyakit pada daun jagung dapat menyebabkan kerugian signifikan dalam produksi p
 - **Convolutional Layers:** Menggunakan beberapa lapisan Conv2D diikuti dengan MaxPooling2D untuk mengekstraksi fitur dari gambar.
 - **Fully Connected Layers:** Lapisan Flatten diikuti dengan Dense Layers untuk klasifikasi akhir.
 
+![image](https://github.com/user-attachments/assets/2493130c-b7ce-47bb-bee7-e7d42184b63d)
+
 ## 3. Dataset
 
 **Dataset yang Digunakan:**
